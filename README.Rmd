@@ -18,8 +18,4 @@ Include your answers in this document (Rmd file). Make sure that it knits proper
 All submissions to the github repo will be automatically uploaded for grading once the due date is passed.
 Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
 
-Testing my changes
-Testing changes 2
-testing changes 3
-conflict2
-conflict test1
+Ashraf - I dealt with fixing merge conflicts. So my friend pushed some changes to the remote. I made some local changes and committed but couldn't push. So I had to pull first but this caused conflicts. Therefore I had to edit merge conflicts and then commit and then push.
