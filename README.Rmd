@@ -23,3 +23,7 @@ Testing changes 2
 testing changes 3
 conflict2
 conflict test1
+
+  The experience in this lab is very good, we learned how to use git, using push, pull, add, and commit. Which will be very useful in the future, or even other classes. IT has been a very productive class. Being able to track changes, collaborate with classmates, and manage version control is going to make group projects so much smoother. 
+
+
