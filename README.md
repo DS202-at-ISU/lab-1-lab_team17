@@ -28,4 +28,6 @@ the future, or even other classes. It has been a very productive class.
 Being able to track changes, collaborate with classmates, and manage
 version control is going to make group projects so much smoother.
 
-add one more line
+Ishan Patel - I had problems downloading homebrew and git. I learned how
+to download git and create my own token. This will be very useful when
+completing future labs in groups.
