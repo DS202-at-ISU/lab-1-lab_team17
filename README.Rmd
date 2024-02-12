@@ -21,3 +21,5 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 Ashraf - I dealt with fixing merge conflicts. So my friend pushed some changes to the remote. I made some local changes and committed but couldn't push. So I had to pull first but this caused conflicts. Therefore I had to edit merge conflicts and then commit and then push.
 
 Nicholas - The experience in this lab is very good, we learned how to use git, using push, pull, add, and commit. Which will be very useful in the future, or even other classes. It has been a very productive class. Being able to track changes, collaborate with classmates, and manage version control is going to make group projects so much smoother.
+
+add one more line
