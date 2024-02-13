@@ -23,3 +23,9 @@ Ashraf - I dealt with fixing merge conflicts. So my friend pushed some changes t
 Nicholas - The experience in this lab is very good, we learned how to use git, using push, pull, add, and commit. Which will be very useful in the future, or even other classes. It has been a very productive class. Being able to track changes, collaborate with classmates, and manage version control is going to make group projects so much smoother.
 
 Ishan Patel - I had problems downloading homebrew and git. I learned how to download git and create my own token. This will be very useful when completing future labs in groups.
+
+Jackson Weaver - I learned how to link my github to my Rstudio in order
+to be able to pull and push data from github or Rstudio. I learned that
+adding a comment to the commit line can be used to tell if the current
+push file in github is the same on my local machine in Rstudio.
+
